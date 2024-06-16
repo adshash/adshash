@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @adshash
+- 👀 I’m interested in machine learning in python, web 3.0 and solidity
+- 🌱 I’m currently learning ML - by creating projects and using eBook resources via my university
+- 💞️ I’m looking to collaborate on any projects! feel free to reach out at:
+- 📫 adilhashlamon@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I firsted coding scratch games at 10 years old and moved on to python at 13. I am a CS2 Player and have been playing counter strike since 2009. 
