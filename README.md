@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any projects! feel free to reach out at:
 - 📫 adilhashlamon@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I firsted coding scratch games at 10 years old and moved on to python at 13. I am a CS2 Player and have been playing counter strike since 2009. 
+- ⚡ Fun fact: I first coding scratch games at 10 years old and moved on to python at 13. I am a CS2 Player and have been playing counter strike since 2009. 
