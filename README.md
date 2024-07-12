@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @adshash
-- 👀 I’m interested in machine learning in python, web 3.0 and solidity
-- 🌱 I’m currently learning ML - by creating projects and using eBook resources via my university
-- 💞️ I’m looking to collaborate on any projects! feel free to reach out at:
-- 📫 ah02731@surrey.ac.uk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I first coding scratch games at 10 years old and moved on to python at 13. I am a CS2 Player and have been playing counter strike since 2009. 
+- I’m interested in data science, machine learning and data visualisation/analysis in python.
+- ah02731@surrey.ac.uk
+- Pronouns: he/him
