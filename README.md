@@ -1,3 +1,3 @@
-- I’m interested in data science, machine learning and data visualisation/analysis in python.
+- Studying a BSc dual honours in math and physics. Interested in quantum computing.
 - ah02731@surrey.ac.uk
 - Pronouns: he/him
