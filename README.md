@@ -1,3 +1,1 @@
-- Studying a BSc dual honours in math and physics. Interested in quantum computing.
-- ah02731@surrey.ac.uk
-- Pronouns: he/him
+Unfortunately my VCS of choice is OneDrive.
